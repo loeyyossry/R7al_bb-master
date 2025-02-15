@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37864454568",
+    "project_id": "rahal-7c92c",
+    "storage_bucket": "rahal-7c92c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37864454568:android:56f5626d99c0b995da859d",
+        "android_client_info": {
+          "package_name": "com.example.r7al"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhdAS60oXeSLCbs9t_JZ1_FErjU_G068"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
